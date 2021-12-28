@@ -21,11 +21,7 @@ Please cite this paper if you use any material in this repository.
 
 ## References
 
-[1] Purcell S, Neale B, Todd-Brown K, et al. PLINK: a tool set for whole-genome association and population-based linkage analyses. Am. J. Hum. Genet. 2007;81(3):559–575.
-
-[2] Lim J, Bae S-C, Kim K. Understanding HLA associations from SNP summary association statistics. Sci. Rep. 2019;9(1):1337.
-
-[3] Yang J, Ferreira T, Morris AP, et al. Conditional and joint multiple-SNP analysis of GWAS summary statistics identifies additional variants influencing complex traits. Nat. Genet. 2012;44(4):369–375.
+[1] Athey, S. & Wager, S. Estimating Treatment Effects with Causal Forests: An Application. Obs.Stud. 2019;5:37–51.
 
 ## Contact
 
