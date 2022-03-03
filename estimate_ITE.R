@@ -23,7 +23,7 @@ predictions <- predict(forest)
 tau.hat <- predictions$predictions
 
 # Plot a partial dependence plot of PRSs on ITEs.
-plot(X[, prscs], tau.hat, 
+plot(X[, "PRS"], tau.hat, 
      xlab = "PRS", ylab = "ITE")
 
 # Assess the slope of the calibration line between predicted ARR and observed ARR.
