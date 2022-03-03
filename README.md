@@ -1,6 +1,6 @@
 # PRS_HTE
 
-This repository is a storage of source codes used in our study of heterogeneity in the association between health behaviours and complex diseases across polygenic risk scores.
+This repository is a storage of source codes used in our study of heterogeneous treatment effects.
 
 ## Publication/Citation
 
