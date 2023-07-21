@@ -1,6 +1,6 @@
 # PRS_HTE
 
-This repository is a storage of source codes used in our study of heterogeneity in the association between health behaviours and complex diseases across polygenic risk scores.
+This repository is a storage of source codes used in our study of heterogeneous treatment effects.
 
 ## Publication/Citation
 
@@ -14,9 +14,7 @@ Please cite this paper if you use any material in this repository.
 
 - R with the following modules.
   - grf (2.0.2)
-  
-  - ggplot2 (3.3.5)
-  
+    
     Our script was tested on the versions in parentheses, so we do not guarantee that it will work on different versions.
 
 ## References

@@ -1,13 +1,14 @@
+library(grf)
 
 set.seed()
 
-# Prepare dataset for causal forest
+# Prepare dataset for causal forest.
 # We assume a dataframe with a disease, exposure, and various characteristics including PRS in each column.
 X <- data[, character_list]
 W <- data$exposure
 Y <- data$disease
 
-# Prepare for data.splitting
+# Prepare for data.splitting.
 # Assign a fold number to each observation.
 num.folds <- 10
 n <- nrow(data)
@@ -23,7 +24,7 @@ predictions <- predict(forest)
 tau.hat <- predictions$predictions
 
 # Plot a partial dependence plot of PRSs on ITEs.
-plot(X[, prscs], tau.hat, 
+plot(X[, "PRS"], tau.hat, 
      xlab = "PRS", ylab = "ITE")
 
 # Assess the slope of the calibration line between predicted ARR and observed ARR.
