@@ -1,6 +1,6 @@
 # PRS_HTE
 
-This repository is a storage of source codes used in our study of heterogeneous treatment effects.
+This repository is a storage of source codes used in our study of heterogeneous associations.
 
 ## Publication/Citation
 
