@@ -10,7 +10,7 @@ Y <- data$disease
 # Prepare for data.splitting
 # Assign a fold number to each observation.
 num.folds <- 10
-n<-nrow(data)
+n <- nrow(data)
 folds <- sample(c(1:num.folds), replace=TRUE, size=n)
 
 # Apply causal forest to estimate ITEs of the exposure on the disease. 
