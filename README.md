@@ -6,7 +6,7 @@ This repository is a storage of source codes used in our study of heterogeneous 
 
 The study is described in the following paper. 
 
-- Naito T†, Inoue K†, Namba S, et al. A machine learning approach reveals heterogeneous association of environmental factors with diseases across polygenic risk scores: an application to cardiometabolic diseases. Commun. Med. 2024
+- Naito T†, Inoue K†, Namba S, et al. Machine learning reveals heterogeneous associations between environmental factors and cardiometabolic diseases across polygenic risk scores. Commun. Med. 2024
 
 Please cite this paper if you use any material in this repository.
 
