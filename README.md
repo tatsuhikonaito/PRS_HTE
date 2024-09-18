@@ -1,12 +1,12 @@
 # PRS_HTE
 
-This repository is a storage of source codes used in our study of heterogeneous associations.
+This repository is a storage of source codes used in our study of heterogeneous associations between environmental factors and diseases across polygenic risk scores.
 
 ## Publication/Citation
 
 The study is described in the following paper. 
 
-- Naito T†, Inoue K†, Namba S, et al. Machine learning reveals heterogeneous associations between environmental factors and cardiometabolic diseases across polygenic risk scores. Commun. Med. 2024
+- Naito T†, Inoue K†, Namba S, et al. Machine learning reveals heterogeneous associations between environmental factors and cardiometabolic diseases across polygenic risk scores. Commun. Med. 2024.
 
 Please cite this paper if you use any material in this repository.
 
