@@ -1,4 +1,4 @@
-# Estimation of Heterogeneous Treatment Effect across Polygenis Risk Score
+# Estimation of Heterogeneous Treatment Effect across Polygenic Risk Score
 
 This repository is a storage of source codes used in our study of heterogeneous associations between environmental factors and diseases across polygenic risk scores.
 
