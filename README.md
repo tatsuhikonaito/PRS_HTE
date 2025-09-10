@@ -23,4 +23,4 @@ Please cite this paper if you use any material in this repository.
 
 ## Contact
 
-For any question, you can contact Tatsuhiko Naito ([tnaito@sg.med.osaka-u.ac.jp](mailto:tnaito@sg.med.osaka-u.ac.jp))
+For any questions, you can contact Tatsuhiko Naito (tnaito [at] sg.med.osaka-u.ac.jp)
